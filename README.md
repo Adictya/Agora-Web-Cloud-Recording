@@ -80,7 +80,7 @@ We are having a small client-server architecture. All the communication will be 
 
 2.  To deploy click on the below button and fill in your environment variables.
 
-[![Click the deploy button above to start](https://cdn-images-1.medium.com/max/2000/0*Um1JR2yL1yJcFn1h.png)](https://heroku.com/deploy?template=https://github.com/raysandeep/Agora-Cloud-Recording-Example/)
+[![Click the deploy button above to start](https://cdn-images-1.medium.com/max/2000/0*Um1JR2yL1yJcFn1h.png)](https://heroku.com/deploy?template=https://github.com/adictya/Agora-Cloud-Recording-Example/)
 
 _Click the deploy button above to start_
 
